@@ -1,0 +1,172 @@
+.html{
+    font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+    padding:0px;
+    margin: 0px;
+}
+.body{
+    padding:0px;
+    margin: 0px;
+}
+.photo{
+    width: 100%; 
+    object-fit: cover;
+}
+
+.movie{
+    width: 100%; 
+    object-fit: cover;
+}
+
+.main{
+    background-color:#FDFBF6;
+      width:calc( 750* (100vw / 750));
+  }
+
+.main-section-phototext{
+
+    width: calc( 200* (100vw / 750));
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.main-class-index_SPT_01{
+    width: 100%;
+    
+}
+.main-class-movie{
+    width: calc(750 * (100vw / 750));
+}
+.main-class-movie-about{
+    width: 100%;
+    height: 100%;
+    }
+
+    .main-class-index{
+        width: calc( 300* (100vw / 375));
+        margin: 65px auto 0 auto;
+
+    }
+    .main-class-index_SP_00{
+        width: 100%;
+    }
+
+
+
+
+    .main-class-text_top{
+        text-align: center;
+        font-size: calc( 11* (100vw / 375));
+        margin-top: 25px;
+        line-height: 2.15em;
+        letter-spacing: 0.05em;
+    }
+
+    .main-class-text_mid{
+        text-align: center;
+        font-size: calc( 11* (100vw / 375));
+       margin-top: 15px;
+       line-height: 2em;
+       letter-spacing: 0.1em;
+    }
+    
+
+    .main-class-text_under{
+        text-align: center;
+        font-size: calc( 11* (100vw / 375));
+        margin-top: 18px;
+        padding-bottom: 100px;
+        line-height: 2.1em;
+        letter-spacing: 0.1em;
+        
+    }
+
+    .main-section-photo{
+        position:relative;
+     }
+ 
+     .main-section-photo-SP_01{
+        text-align: center;
+         position:absolute;
+         top: -73px; 
+     }
+   
+    .secondary{
+        position: relative;
+        background-color:white;
+        width:calc( 750* (100vw / 750));
+    }
+   
+
+.secondary-index{
+    text-align: center;
+    width: calc( 750* (100vw / 750));
+    margin:300px auto 0 auto;
+}
+.secondary-index-text{
+    font-size:25px;
+    line-height: 0.51em;
+    letter-spacing: 0em;
+}
+
+.secondary-price{
+    text-align: center;
+    width: calc( 750* (100vw / 750));
+    margin: 0 auto 36px auto;
+}
+
+
+
+.tertiary{
+    background-color:#FDFBF6;
+      width:calc( 375* (100vw / 375));
+    padding-bottom: 75px;
+}
+
+    .tertiary-photo3{
+        margin:80px auto 0 auto;
+       width:calc((100vw / 1.16));
+    }
+    .tertiary-photo3-SP_03{
+        margin:35px auto 0 auto;
+        width: 100%;
+    }
+    .tertiary-photo4{
+        margin:25px auto 0 auto;
+       width:calc((100vw / 1.5));
+    }
+    .tertiary-photo4-SP_04{
+        width: 100%;
+    }
+
+    .tertiary-price{
+        text-align: center;
+        width: calc( 750* (100vw / 750));
+        margin: 10px auto 40px auto;
+
+    }
+    .tertiary-price-size{
+       font-size: 72%;
+       line-height: 1em;
+       letter-spacing: 0.07em;
+    }
+
+    .tertiary-search{
+        width: calc( 750* (100vw / 750));
+      text-align: center;
+      }
+      .tertiary-search-result{
+        text-align: center;
+        color:#000;
+        background-color: white;
+        margin-top: 34px;
+
+        
+      }
+      .tertiary-search-result-button{
+        font-size: 12px;
+        margin-left: 25px;
+        margin-right: 28px;
+        margin-top: 4px;
+        margin-bottom: 4px;
+        letter-spacing: 0.05em;
+      }

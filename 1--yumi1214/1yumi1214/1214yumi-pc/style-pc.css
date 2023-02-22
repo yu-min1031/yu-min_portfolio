@@ -1,0 +1,167 @@
+.html {
+  font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+}
+
+.wrap {
+  width: 1920px;
+  overflow: hidden;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+li {
+  list-style: none;
+}
+
+img:hover {
+  opacity: 0.6;
+  filter: brightness(110%);
+}
+.main {
+  background-color: #fdfbf6;
+  width: 1920px;
+  height: 1470px;
+}
+
+.photo {
+  width: 100%;
+  object-fit: cover;
+}
+
+.movie {
+  width: 100%;
+  object-fit: cover;
+}
+
+.main-section-phototext {
+  margin: 40px auto 0px auto;
+  /*font-family: pragmatica, sans-serif;*/
+  width: 163px;
+}
+
+.main-class-index_PCT_01 {
+  width: 100%;
+}
+
+.main-class-movie {
+  margin: 72px auto 0px auto;
+  width: 550px;
+  height: 733.33px;
+}
+
+.main-class-index {
+  margin: 70px auto 0px auto;
+  width: 450px;
+}
+.main-class-index_PCS_00 {
+  width: 100%;
+}
+
+.main-class-text_top {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 35px;
+  line-height: 30px;
+}
+
+.main-class-text_mid {
+  text-align: center;
+  font-size: 13px;
+  line-height: 29px;
+  letter-spacing: 0.07em;
+}
+
+.main-class-text_under {
+  text-align: center;
+  font-size: 13px;
+  line-height: 30px;
+}
+
+.secondary {
+  text-align: center;
+  background-color: white;
+  width: 1920px;
+  height: 380px;
+  position: relative;
+}
+.secondary_S_01 {
+  position: absolute;
+  margin: 0px auto;
+  top: -160px;
+  left: 620px;
+  width: 350px;
+  height: 350px;
+}
+.secondary_S_02 {
+  text-align: center;
+  position: absolute;
+  top: -160px;
+  left: 947px;
+  width: 350px;
+  height: 350px;
+}
+.secondary-index {
+  font-size: 33px;
+  margin-top: 150px;
+  letter-spacing: 0.5px;
+}
+
+.secondary-price {
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.tertiary {
+  background-color: #fdfbf6;
+  width: 1920px;
+  height: 1355px;
+}
+.tertiary-photo3 {
+  margin: 95px auto 0px auto;
+  width: 580px;
+  height: 770px;
+}
+.tertiary_S_03 {
+  width: 100%;
+}
+.tertiary-photo4 {
+  margin: 390px 50px 0px 80px;
+  width: 480px;
+  height: 650px;
+}
+.tertiary_S_04 {
+  width: 100%;
+}
+.tertiary-price-position {
+  position: relative;
+}
+.tertiary-price-position-text {
+  font-size: 13px;
+  position: absolute;
+  top: -190px;
+  left: 390px;
+}
+
+.tertiary-search {
+  text-align: center;
+  margin-top: 105px;
+}
+.tertiary-search-result {
+  text-align: center;
+  color: #000;
+  background-color: white;
+}
+.tertiary-search-result-button {
+  font-size: 16px;
+  margin-left: 33px;
+  margin-right: 33px;
+  margin-top: 6px;
+  margin-bottom: 7px;
+}
+
+/* 水平方向の中央揃え 
+  text-align: center;
+  display: inline-block;*/
